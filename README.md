@@ -15,3 +15,6 @@ Ontologies:
 * [WO](http://smiy.sourceforge.net/wo/spec/weightingontology.html#)
 * [getty] (http://vocab.getty.edu/ontology#)
 
+References:
+* [FOAF & WI] (http://xmlns.notu.be/wi/)
+
